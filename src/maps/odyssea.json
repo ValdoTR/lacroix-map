@@ -415,7 +415,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/videoseries?list=PLAypQCZ_WoJPlYaezCjMlxfTkIUrwifuB"
+                 "value":"https:\/\/web.microsoftstream.com\/embed\/channel\/e2af3793-4d2c-43a3-a970-708b5d6bf90f"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -438,7 +438,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/videoseries?list=PLAypQCZ_WoJNxCmv1g3O7DkZk8wto85je"
+                 "value":"https:\/\/web.microsoftstream.com\/embed\/channel\/e2af3793-4d2c-43a3-a970-708b5d6bf90f"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -461,7 +461,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/web.microsoftstream.com\/embed\/group\/d37e7b44-51d7-44c5-849e-539adabce8b2"
+                 "value":"https:\/\/web.microsoftstream.com\/embed\/channel\/e2af3793-4d2c-43a3-a970-708b5d6bf90f"
                 }, 
                 {
                  "name":"openWebsitePolicy",
