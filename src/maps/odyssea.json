@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/lab.json#from-odyssea"
+                 "value":"\/@\/*lacroix*\/lacroix-adventure\/lab#from-odyssea"
                 }],
          "type":"tilelayer",
          "visible":true,
