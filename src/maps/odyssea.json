@@ -301,6 +301,12 @@
          "id":73,
          "name":"silentZoneConseil",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":90,
@@ -336,6 +342,12 @@
          "id":72,
          "name":"silentZoneConference",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":90,
