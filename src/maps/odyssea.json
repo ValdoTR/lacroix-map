@@ -144,7 +144,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.lacroix-electronics.fr\/"
+                 "value":"https://"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -369,7 +369,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/web.microsoftstream.com\/embed\/video\/08481801-847e-4a2b-93d5-97ac72e3656f"
+                 "value":"https:\/\/web.microsoftstream.com\/embed\/video\/5d3d3502-213b-416c-a003-b4ca1ecdc186"
                 }, 
                 {
                  "name":"openWebsitePolicy",
