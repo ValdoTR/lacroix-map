@@ -369,7 +369,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/web.microsoftstream.com\/embed\/video\/aa6390f8-643a-4eb3-bf55-0112c76a3b9a"
+                 "value":"https://web.microsoftstream.com/embed/video/2698c72c-f86a-4603-b5bf-2c46eee0ce4b"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -410,7 +410,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/web.microsoftstream.com\/embed\/video\/ef93127a-5341-42d6-86b6-40248b96f019"
+                 "value":"https://web.microsoftstream.com/embed/video/2698c72c-f86a-4603-b5bf-2c46eee0ce4b"
                 }, 
                 {
                  "name":"openWebsitePolicy",
